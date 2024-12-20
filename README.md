@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Copying request as curl from network tab not working
 - Made using expo create
 - Problem - Copying request as curl from network tab not working.
 
