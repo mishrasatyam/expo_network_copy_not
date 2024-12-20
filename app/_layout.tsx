@@ -2,7 +2,7 @@ import { Button, View } from "react-native";
 
 export default function HomeScreen() {
   return (
-    <View>
+    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
       <Button
         title="Click me"
         onPress={() =>
